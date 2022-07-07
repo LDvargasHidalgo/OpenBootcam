@@ -7,34 +7,34 @@ public class EjercicioBucles_OpenBootcamp {
 
 
         //PRIMER EJERCICIO
-        /*int numero = -3;
+
         if (numero>0){
             System.out.println("El numero "+numero + " es positivo");
         } else if (numero<0) {
             System.out.println("El numero "+numero + " es negativo");
         }else {
             System.out.println("El numero es 0");
-        }*/
+        }
 
         //SEGUNDO EJERCICIO BUCLE WHILE
-        /*
+
 
         while (numero<3){
             numero++;
             System.out.println(numero);
-        }*/
+        }
 
         //TERCER EJERCICIO BUCLE DO WHILE
-        /*do{
+        do{
             numero++;
             System.out.println(numero);
             break;
-        }while(numero<3);*/
+        }while(numero<3);
 
         //EJERCICIO 4 BUCLE FOR
-        /*for(int i=0; i<3; i++){
+        for(int i=0; i<3; i++){
             System.out.println(i);
-        }*/
+        }
 
         // EJERCICIO 5 SWITCH
          switch (estacion){
